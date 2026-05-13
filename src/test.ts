@@ -1,5 +1,4 @@
 import { GitAnalyzer } from './gitAnalyzer';
-import * as path from 'path';
 
 async function run() {
     try {
