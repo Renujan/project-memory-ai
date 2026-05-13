@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist/
+.vscode-test/
+.DS_Store
+*.vsix
+db.sqlite3
+memory.json
+*.pyc
+__pycache__/
